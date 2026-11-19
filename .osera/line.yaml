@@ -1,0 +1,19 @@
+# Licensed under the Apache License, Version 2.0: https://www.apache.org/licenses/LICENSE-2.0
+line: activemq-5.14
+repository: patch-activemq
+members:
+  - org.apache.activemq:activemq-parent
+  - org.apache.activemq:activemq-client
+  - org.apache.activemq:activemq-openwire-legacy
+  - org.apache.activemq:activemq-broker
+  - org.apache.activemq:activemq-stomp
+  - org.apache.activemq:activemq-mqtt
+  - org.apache.activemq:activemq-amqp
+  - org.apache.activemq:activemq-web
+  - org.apache.activemq:activemq-jdbc-store
+  - org.apache.activemq:activemq-spring
+  - org.apache.activemq:activemq-all
+  - org.apache.activemq:activemq-osgi
+  - org.apache.activemq:activemq-rar
+  - org.apache.activemq:activemq-web-console
+  - org.apache.activemq:apache-activemq
